@@ -1,5 +1,4 @@
-### Fala meu paladino, tudo na paz?
-
+### 
 - 🌱 I’m currently learning ... HTML/CSS/JS
 
 <div align="center">
